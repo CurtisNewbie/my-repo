@@ -2,7 +2,7 @@
 
 Last Updated At: 05/09/2021
 
-[English](./README) | [中文](./README-CN)
+[English](./README.md) | [中文](./README-CN.md)
 
 Following are active projects that I am working on, feel free to have a look. Always use the `main` or `master` branch, I will try my best to make them 'stable'. Some of my projects depend on the modules that I developed. To make them work, you may need to install them using Maven. The modules or dependencies may look messy, but I do try to write some reusable code/components like how we may do it in companies. 
 
