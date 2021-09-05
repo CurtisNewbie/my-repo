@@ -2,9 +2,34 @@
 
 Last Updated At: 05/09/2021
 
+[English](./README) | [中文](./README-CN)
+
 Following are active projects that I am working on, feel free to have a look. Always use the `main` or `master` branch, I will try my best to make them 'stable'. Some of my projects depend on the modules that I developed. To make them work, you may need to install them using Maven. The modules or dependencies may look messy, but I do try to write some reusable code/components like how we may do it in companies. 
 
 In the first section, I will show you the projects that I am actively developing or maintaining, and then in the next section, I will talk about the modules that I developed, and finally in the last section, there are also some archived projects that I have written a long time ago.
+
+# Content Page 
+
+- [1. Services and Web Applications](#1-services-and-web-applications)
+    - [1.1. Auth-Service](#11-auth-service)
+    - [1.2. File-Server](#12-file-server)
+    - [1.3. Chat-Service](#13-chat-service)
+    - [1.4. Todo-App](#14-todoapp)
+- [2. BOM](#2-bom)
+- [3. Modules](#3-modules)
+    - [3.1 Auth-Module](#31-auth-module)
+    - [3.2 Transactional-Outbox-Module](#32-transactional-outbox-module)
+    - [3.3 Distributed-Task-Module](#33-distributed-task-module)
+    - [3.4 Log-Tracing-Module](#34-log-tracing-module)
+    - [3.5 Messaging-Module](#35-messaging-module)
+    - [3.6 Redis-Util-Module](#36-redis-util-module)
+    - [3.7 Common-Module](#37-common-module)
+    - [3.8 Service-Module](#38-service-module)
+- [4. Archived Projects](#4-archived-projects)
+    - [4.1 MediaHoster](#41-mediahoster)
+    - [4.2 Android ImageEncryptor](#42-android-imageencryptor)
+    - [4.3 PDFHoster](#43-pdfhoster)
+    - [4.4 LocalGalleri](#44-localgalleri)
 
 # 1. Services and Web Applications
 

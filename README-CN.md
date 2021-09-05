@@ -2,11 +2,36 @@
 
 最后更新时间: 05/09/2021
 
+[English](./README) | [中文](./README-CN)
+
 下面是我正在开发的项目，当你尝试编译和运行我的项目的时候，请尽可能使用 `main` or `master` 分支，我会尽可能让主分支稳定可运行。部分项目会依赖于我写的模块，为了编译通过，你需要使用 Maven 手动 `install` 这些项目。大量的模块可能会看起来比较混乱，因为没能从中央仓库自动拉取，但是模块化是为了让我能写出重复使用的代码和功能，提高开发效率。这个 README 的第一个部分会讲我目前正在开发或维护的项目，第二个部分会讲我写的一些公用模块，在最后一部分，会讲一些我很久以前写的已经存档的项目。
+
+# 目录 
+
+- [1. 服务和网络应用](#1-服务和网络应用)
+    - [1.1. Auth-Service](#11-auth-service)
+    - [1.2. File-Server](#12-file-server)
+    - [1.3. Chat-Service](#13-chat-service)
+    - [1.4. Todo-App](#14-todoapp)
+- [2. BOM](#2-bom)
+- [3. 模块](#3-模块)
+    - [3.1 Auth-Module](#31-auth-module)
+    - [3.2 Transactional-Outbox-Module](#32-transactional-outbox-module)
+    - [3.3 Distributed-Task-Module](#33-distributed-task-module)
+    - [3.4 Log-Tracing-Module](#34-log-tracing-module)
+    - [3.5 Messaging-Module](#35-messaging-module)
+    - [3.6 Redis-Util-Module](#36-redis-util-module)
+    - [3.7 Common-Module](#37-common-module)
+    - [3.8 Service-Module](#38-service-module)
+- [4. Archived Projects](#4-archived-projects)
+    - [4.1 MediaHoster](#41-mediahoster)
+    - [4.2 Android ImageEncryptor](#42-android-imageencryptor)
+    - [4.3 PDFHoster](#43-pdfhoster)
+    - [4.4 LocalGalleri](#44-localgalleri)
 
 # 1. 服务和网络应用 
 
-## 1.1 Auth-Service
+## 1.1. Auth-Service
 
 该项目包含两个应用:
 
