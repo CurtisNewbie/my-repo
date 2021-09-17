@@ -30,6 +30,7 @@ In the first section, I will show you the projects that I am actively developing
     - [4.2 Android ImageEncryptor](#42-android-imageencryptor)
     - [4.3 PDFHoster](#43-pdfhoster)
     - [4.4 LocalGalleri](#44-localgalleri)
+    - [4.5 IOC-Module](#45-ioc-module)
 
 # 1. Services and Web Applications
 
@@ -147,3 +148,9 @@ link: https://github.com/CurtisNewbie/PDFHoster
 A basic web application for image sharing. It essentially scans all the images in a directory, and exposes them as resources via REST and HATEOAS to the **Angular** frontend. As users scroll down in the **Virtual Scroll**, images are fetched by the browser.
 
 link: https://github.com/CurtisNewbie/LocalGalleri
+
+## 4.5 IOC-Module 
+
+A simple IOC container for learning how IOC works.
+
+link: https://github.com/CurtisNewbie/ioc-module

@@ -28,6 +28,7 @@
     - [4.2 Android ImageEncryptor](#42-android-imageencryptor)
     - [4.3 PDFHoster](#43-pdfhoster)
     - [4.4 LocalGalleri](#44-localgalleri)
+    - [4.5 IOC-Module](#45-ioc-module)
 
 # 1. 服务和网络应用 
 
@@ -145,3 +146,9 @@ link: https://github.com/CurtisNewbie/PDFHoster
 一个用于在线浏览图片的 webapp。该应用扫描文件夹内的图片，并且以 **HATEOAS** 的方式返回给 **Angular** 前端，前端使用 **Virtual Scroll** 来让用户边滚动边拉取和显示图片。
 
 link: https://github.com/CurtisNewbie/LocalGalleri
+
+## 4.5 IOC-Module 
+
+简单的IOC容器实现，用于学习IOC的工作原理。
+
+link: https://github.com/CurtisNewbie/ioc-module
